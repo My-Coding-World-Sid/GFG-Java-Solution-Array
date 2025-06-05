@@ -1,4 +1,4 @@
-Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.
+Problem : Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.
 
 Note: The second largest element should not be equal to the largest element.
 
@@ -23,3 +23,13 @@ Explanation: The largest element of the array is 35 and the second largest eleme
    -Update 'secondLargest = current number'
 4. Return the second largest number:
    -At the end of the loop, return 'secondLargest' is 34
+
+
+## Solution in Java:
+Check the ['Solution.java']
+         file for full implementation.
+
+
+
+
+   
